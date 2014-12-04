@@ -33,3 +33,5 @@ n! =
 ```
 
 This definition is called **recursive** because we define the factorial of `n` in terms of the factorial of `n-1`. We stop at the **base case**, where `n = 0`.
+
+Let's do this!
